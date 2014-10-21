@@ -3,7 +3,6 @@
 
     <string name="app_name">Home Work 1 Lysenko O</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="click_me">Click me!</string>
 
 </resources>
