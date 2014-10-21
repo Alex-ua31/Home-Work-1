@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Home Work 1 Lysenko O</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">HomeWork1LysenkoO</string>
     <string name="click_me">Click me!</string>
 
 </resources>
