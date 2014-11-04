@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Home Work 1 Lysenko O</string>
+    <string name="app_name">GH Lysenko Home Work 1</string>
     <string name="title_activity_main">HomeWork1LysenkoO</string>
     <string name="animation1">Blink</string>
     <string name="animation2">Fade in</string>
