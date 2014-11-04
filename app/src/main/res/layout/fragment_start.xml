@@ -8,8 +8,17 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/animation"
-        android:id="@+id/buttonAnimation"
+        android:text="@string/navigation_drawer"
+        android:id="@+id/buttonDrawer"
         android:layout_gravity="center_horizontal"
         android:padding="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/multi_pane"
+        android:id="@+id/buttonMultiPane"
+        android:layout_gravity="center_horizontal"
+        android:padding="20dp" />
+
 </LinearLayout>

@@ -3,5 +3,5 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="ua.ck.geekhub.oleksiilysenko.homework1lysenkoo.StartActivity"
+    tools:context="ua.ck.geekhub.oleksiilysenko.homework1lysenkoo.activity.StartActivity"
     tools:ignore="MergeRootFrame" />

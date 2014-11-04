@@ -1,4 +1,4 @@
-package ua.ck.geekhub.oleksiilysenko.homework1lysenkoo;
+package ua.ck.geekhub.oleksiilysenko.homework1lysenkoo.fragment;
 
 
 import android.app.Activity;
@@ -21,6 +21,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
+
+import ua.ck.geekhub.oleksiilysenko.homework1lysenkoo.R;
 
 /**
  * Fragment used for managing interactions for and presentation of a navigation drawer.

@@ -6,4 +6,4 @@
     android:divider="@android:color/transparent"
     android:dividerHeight="0dp"
     android:background="#cccc"
-    tools:context="ua.ck.geekhub.oleksiilysenko.homework1lysenkoo.NavigationDrawerFragment" />
+    tools:context="ua.ck.geekhub.oleksiilysenko.homework1lysenkoo.fragment.NavigationDrawerFragment" />
